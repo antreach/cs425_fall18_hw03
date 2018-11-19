@@ -1,0 +1,308 @@
+<Questions>	
+    <Easy>
+		<Question>
+			<Q>How many colours are there in a rainbow?</Q>
+			<A>1</A><A>2</A><A>3</A><A>7</A><CA>7</CA>
+		</Question>
+		<Question>
+			<Q>How many degrees are found in a circle?</Q>
+			<A>90</A><A>180</A><A>360</A><A>270</A><CA>360</CA>
+		</Question>
+		<Question>
+			<Q>The word 'bible' comes from the Greek 'biblion'-what does biblion mean?</Q>
+			<A>Book</A><A>Bag</A><A>Cross</A><A>Love</A><CA>Book</CA>
+		</Question> 
+		<Question>
+			<Q>What are espadrilles?</Q>
+			<A>Mexican Food</A><A>Sandals</A><A>Cake</A><A>MexicanBrand</A><CA>Sandals</CA>
+		</Question> 
+		<Question>
+			<Q>Which fictional character was also known as Lord Greystoke?</Q>
+			<A>Mogli</A><A>Aladin</A><A>Tarzan</A><A>Alex</A><CA>Tarzan</CA>
+		</Question>   
+		<Question>
+			<Q>How many sides does a dodecagon have?</Q>
+			<A>12</A><A>13</A><A>6</A><A>8</A><CA>12</CA>
+		</Question>  
+		<Question>
+			<Q>What sort of creature dd St George allegendly slay?</Q>
+			<A>Lion</A><A>Dragon</A><A>Dog</A><A>Snake</A><CA>Dragon</CA>
+		</Question>  
+		<Question>
+			<Q>What is another word for lexicon?</Q>
+			<A>Letter thing</A><A>Diary</A><A>Book</A><A>Dictionary</A><CA>Dictionary</CA>
+		</Question> 
+		<Question>
+			<Q>What is the painting 'La Gioconda' more usually known as?</Q>
+			<A>AnnaMaria</A><A>Rosana</A><A>MonaLisa</A><A>Magdaline</A><CA>MonaLisa</CA>
+		</Question> 
+		<Question>
+			<Q>Who wrote the book.,"Alice in Wonderland"?</Q>
+			<A>JK Rowling</A><A>Lewis Carroll</A><A>Louis Carroll</A><A>Bill Hicks</A><CA>Louis Carroll</CA>
+		</Question> 
+		<Question>
+			<Q>What is the abbreviation for Washington, D.C?</Q>
+			<A>WA</A><A>WD</A><A>DC</A><A>EDC</A><CA>DC</CA>
+		</Question> 
+		<Question>
+			<Q>Where were cat once the most honored?</Q>
+			<A>Greece</A><A>USA</A><A>Egypt</A><A>UK</A><CA>Egypt</CA>
+		</Question> 
+		<Question>
+			<Q>Which Weasley brother first owns Scabbers as a pet?</Q>
+			<A>Bill</A><A>George</A><A>Fred</A><A>Percy</A><CA>Percy</CA>
+		</Question>
+        <Question>
+			<Q>What does HTML stand for?</Q>
+			<A>Hyperlinks and Text Markup Language</A><A>Hyper Text Markup Language</A><A>Home Tool Markup Language</A><A>None of the above</A><CA>Hyoer Text Markup Language</CA>
+		</Question> 
+        <Question>
+			<Q>What is the correct HTML for adding a background color?</Q>
+			<A>backgroundyellow background</A><A>body style="background-color:yellow"</A><A>body bg=yellow</A><A>body style="background:yellow"</A><CA>body style="background-color:yellow"</CA>
+		</Question>
+        <Question>
+			<Q>Which oh these elements are all table element?</Q>
+			<A>table head tfoot</A><A>table tr td</A><A>thead body tr</A><A>table tr tt</A><CA>table tr td</CA>
+		</Question>
+        <Question>
+			<Q>How can you make a numbered list?</Q>
+			<A>ol</A><A>ul</A><A>list</A><A>dl</A><CA>ol</CA>
+		</Question>
+        <Question>
+			<Q>How can you make a bulleted list?</Q>
+			<A>dl</A><A>list</A><A>ol</A><A>ul</A><CA>dl</CA>
+		</Question>
+        <Question>
+			<Q>What is the correct HTML for making a drop-down list?</Q>
+			<A>input type="list"</A><A>input type="dropdown"</A><A>list</A><A>select</A><CA>input type="dropdown"</CA>
+		</Question>
+		<Question>
+			<Q>On wich TV show was there a character named Monica Geller?</Q>
+			<A>Friends</A><A>30 Rock</A><A>Two And A Half men</A><A>The simpsons</A><CA>Friends</CA>
+		</Question>
+		<Question>
+			<Q>Which date is Christmas celebrated in most countries?</Q>
+			<A>December 25th</A><A>March 2nd</A><A>August 15th</A><A>April 1st</A><CA>December 25th</CA>
+		</Question>
+		<Question>
+			<Q>Wannabe was the debut single of this band</Q>
+			<A>Spice Girls</A><A>Faithless</A><A>Take that</A><A>All Saints</A><CA>Spice Girls</CA>
+		</Question>
+		<Question>
+			<Q>In which sport does Roger Federer compete?</Q>
+			<A>Golf</A><A>Tennis</A><A>Baseball</A><A>Basketball</A><CA>Tennis</CA>
+		</Question>
+		<Question>
+			<Q>Who did the Mona Lisa paint?</Q>
+			<A>Michaelaggelo</A><A>Leonardo Da Vinci</A><A>Van Gogh</A><A>Dali</A><CA>Leonardo Da Vinci</CA>
+		</Question>
+		<Question>
+			<Q>Who did paint the famous painting Guernica</Q>
+			<A>Picasso</A><A>Dali</A><A>Van Gogh</A><A>Monet</A><CA>Picasso</CA>
+		</Question>
+	</Easy>
+	<Medium>
+		<Question>
+			<Q>What RGB means?</Q>
+			<A>Ready Go Bye</A><A>Red Green Blue</A><A>Rigt Back</A><A>Red Google Beeds</A><CA>Red Google Beeds</CA>
+		</Question>
+		<Question>
+			<Q>What id Felix Felicis also known as?</Q>
+			<A>Liquid Passion</A><A>Liquid Luck</A><A>Love Possion</A><A>Medicine</A><CA>Liquid Luck</CA>
+		</Question>
+		<Question>
+			<Q>Were jeans always blue?</Q>
+			<A>No</A><A>Yes</A><A>Yellow</A><A>White</A><CA>No</CA>
+		</Question> 
+		<Question>
+			<Q>What colour is Absynthe?</Q>
+			<A>Blue</A><A>Green</A><A>Red</A><A>Purple</A><CA>Green</CA>
+		</Question> 
+		<Question>
+			<Q>What is the capital city of Spain?</Q>
+			<A>Barcelona</A><A>Madrid</A><A>Seville</A><A>Granada</A><CA>Madrid</CA>
+		</Question>   
+		<Question>
+			<Q>Which fictional character lived at 221b Baker Street?</Q>
+			<A>Eliot</A><A>Amelie</A><A>Sherlock Holmes</A><A>Harry Potter</A><CA>Sherlock Holmes</CA>
+		</Question>  
+		<Question>
+			<Q>What nationality of soldiers wear a white kilt?</Q>
+			<A>Romans</A><A>Indians</A><A>Greek</A><A>Britain</A><CA>Greek</CA>
+		</Question>  
+		<Question>
+			<Q>How many strings does a cello have?</Q>
+			<A>3</A><A>4</A><A>6</A><A>8</A><CA>4</CA>
+		</Question> 
+		<Question>
+			<Q>Name the type of footwear invented in 1815, which enables the wearer to move very quickly over smooth,flat ground?</Q>
+			<A>RollerSkates</A><A>Lake</A><A>Jordans</A><A>Nike</A><CA>RollerSkates</CA>
+		</Question> 
+		<Question>
+			<Q>Who wrote the book,"Alice in Wonderland"?</Q>
+			<A>JK Rowling</A><A>Lewis Carroll</A><A>Louis Carroll</A><A>Bill Hicks</A><CA>Louis Carroll</CA>
+		</Question> 
+		<Question>
+			<Q>Who was the legendary king who was killed at the Battle of Camelford?</Q>
+			<A>Sebastian</A><A>Alexandros</A><A>Arthur</A><A>Ceacar</A><CA>Arthur</CA>
+		</Question> 
+		<Question>
+			<Q>By what name is Norma Jean Baker more commonly known?</Q>
+			<A>Lady Gaga</A><A>Beyonce</A><A>Marilyn Monroe</A><A>Betty Davis</A><CA>Marilyn Monroe</CA>
+		</Question> 
+		<Question>
+			<Q>What do you call a time span of one thousand years?</Q>
+			<A>Millennium</A><A>Decade</A><A>Megaannum</A><A>Century</A><CA>Millennium</CA>
+		</Question> 
+        <Question>
+			<Q>Choose the correct HTML element for the largest heading?</Q>
+			<A>head</A><A>h1</A><A>h6</A><A>heading</A><CA>h1</CA>
+		</Question> 
+        <Question>
+			<Q>What is the correct HTML element for inserting a line break?</Q> 
+			<A>break</A><A>lb</A><A>br</A><A>/n</A><CA>br</CA>
+		</Question> 
+        <Question>
+			<Q>Choose the correct HTML element to define important text</Q>
+			<A>i</A><A>important</A><A>strong</A><A>b</A><CA>strong</CA>
+		</Question> 
+        <Question>
+			<Q>What is the correct HTML for making a text area?</Q>
+			<A>input type="textarea"</A><A>input type="textbox"</A><A>textarea.textbox</A><A>input type"button"</A><CA>input type="textbox"</CA>
+		</Question> 
+		<Question>
+			<Q>In which city is the Louvre Museum located?</Q>
+			<A>Paris</A><A>New York</A><A>London</A><A>Rome</A><CA>Paris</CA>
+		</Question> 
+		<Question>
+			<Q>Which continent is Ireland considered a part of?</Q>
+			<A>Asia</A><A>Europe</A><A>Africa</A><A>North America</A><CA>Europe</CA>
+		</Question> 
+		<Question>
+			<Q>Which of the following is a model of the earth?</Q>
+			<A>Globe</A><A>Map</A><A>Picture from Space</A><A>Compass</A><CA>Globe</CA>
+		</Question> 
+		<Question>
+			<Q>Which classic book was written by JRR Tolkien?</Q>
+			<A>Snow Falling On Cedars</A><A>To Kill A Mockingbird</A><A>The Hobbit</A><A>Catcher In The Rye</A><CA>The Hobbit</CA>
+		</Question> 
+		<Question>
+			<Q>In which sport Muhammad Ali compete?</Q>
+			<A>Tennis</A><A>Basketball</A><A>Boxing</A><A>Volleyball</A><CA>Boxing</CA>
+		</Question> 
+		<Question>
+			<Q>In which country was the famous painter El Greco born?</Q>
+			<A>Italy</A><A>Spain</A><A>Greece</A><A>France</A><CA>Greece</CA>
+		</Question> 
+		<Question>
+			<Q>What is the well known drink from Greece?</Q>
+			<A>Wine</A><A>Ouzo</A><A>Frape</A><A>Retsina</A><CA>Ouzo</CA>
+		</Question>
+		<Question>
+			<Q>What is Japanese sake made from?</Q>
+			<A>Rise</A><A>Sea Wheat</A><A>Rose</A><A>Wine</A><CA>Rise</CA>
+		</Question>
+</Medium>
+<Hard>
+		<Question>
+			<Q>How many squares are there on a chess board?</Q>
+			<A>64</A><A>70</A><A>30</A><A>567</A><CA>64</CA>
+		</Question>
+		<Question>
+			<Q>Who wrote a series of novels about orcs, hobbits, goblins and elves?</Q>
+			<A>JK Rollins</A><A>Jane Austen</A><A>Charles Dickens</A><A>JRR Tolkien</A><CA>JRR Tolkien</CA>
+		</Question>
+		<Question>
+			<Q>Who was known as The Tramp or The king of Comedy?</Q>
+			<A>Robbin Williams</A><A>Charlie Chaplin</A><A>Bill Hicks</A><A>Chris Rock</A><CA>Charlie Chaplin</CA>
+		</Question> 
+		<Question>
+			<Q>Which annual English festival of music was founded by the conductor Sir Henry Joseph Wood in 1895?</Q>
+			<A>WoodStock</A><A>Coachella</A><A>Promenade Concerts</A><A>Bach</A><CA>Promenade Concerts</CA>
+		</Question> 
+		<Question>
+			<Q>According to Greek mythology,who stole fire for mankind's benefit?</Q>
+			<A>Heracles</A><A>Oidipodas</A><A>Prometheus</A><A>Ermis</A><CA>Prometheus</CA>
+		</Question>   
+		<Question>
+			<Q>What is the larges ocean?</Q>
+			<A>Pacific</A><A>Arctic</A><A>Indian</A><A>Atlantic</A><CA>Pacific</CA>
+		</Question>  
+		<Question>
+			<Q>What does the term 'piano' mean?</Q>
+			<A>to Be Played Softly</A><A>to Be Played Beautifly</A><A>peaceful</A><A>joyfullPlay</A><CA>to Be Played Softly</CA>
+		</Question>  
+		<Question>
+			<Q>When was William Shakespeare born?</Q>
+			<A>1467</A><A>1564</A><A>1500</A><A>1678</A><CA>1564</CA>
+		</Question> 
+		<Question>
+			<Q>What is the name of Argus Filch's cat?</Q>
+			<A>Hedwig</A><A>Norris</A><A>Scapers</A><A>Nevil</A><CA>Norris</CA>
+		</Question> 
+		<Question>
+			<Q>The Grim is an omen of what?</Q>
+			<A>Love</A><A>Sadness</A><A>Death</A><A>Hate</A><CA>Death</CA>
+		</Question> 
+		<Question>
+			<Q>How many points is the Snitch worth to the Seeker that catches it?</Q>
+			<A>50</A><A>100</A><A>150</A><A>15</A><CA>150</CA>
+		</Question> 
+		<Question>
+			<Q>By what name is Norma Jean Baker more commonly known?</Q>
+			<A>Lady Gaga</A><A>Beyonce</A><A>Marilyn Monroe</A><A>BettyDavis</A><CA>Marilyn Monroe</CA>
+		</Question> 
+		<Question>
+			<Q>What do you call a time span of one thousand years?</Q>
+			<A>Millennium</A><A>Decade</A><A>Megaannum</A><A>Century</A><CA>Millennium</CA>
+		</Question> 
+        <Question>
+			<Q>Who is making the Wed standards?</Q>
+			<A>Google</A><A>Microsoft</A><A>Mozilla</A><A>The world wide web consortium</A><CA>The world wide web consortium</CA>
+		</Question> 
+        <Question>
+			<Q>Choose the correct HTML element to define emphasized text</Q>
+			<A>italic</A><A>i</A><A>em</A><A>emphasized</A><CA>em</CA>
+		</Question> 
+        <Question>
+			<Q>How can you open a link in a new atb/browser window?</Q>
+			<A>a href="url" target="_blank"</A><A>a href="url" target="new"</A><A>a href="url" new</A><A>None of the above</A><CA>a href="url" target="new"</CA>
+		</Question> 
+        <Question>
+			<Q>What is the correct HTML for making a checkbox?</Q>
+			<A>input type="textholder"</A><A>input type="checkbox"</A><A>input type="check"</A><A>check.checkbox</A><CA>input type="checkbox"</CA>
+		</Question> 
+        <Question>
+			<Q>What is the correct HTML for making a text input field?</Q>
+			<A>textfield</A><A>input type="text"</A><A>textinput type="text"</A><A>input type="textfield"</A><CA>input type="text"</CA>
+		</Question> 
+		<Question>
+			<Q>Which company is Michael Jordan most associated with?</Q>
+			<A>Apple</A><A>Nike</A><A>Microsoft</A><A>Hershey's</A><CA>Nike</CA>
+		</Question> 
+		<Question>
+			<Q>Winston Churchill was the prime minister of</Q>
+			<A>United States</A><A>Russia</A><A>France</A><A>United Kingdom</A><CA>United Kingdom</CA>
+		</Question>
+		<Question>
+			<Q>Who sang Strawberry Fields Forever?</Q>
+			<A>Bod Dylan</A><A>Jini Hendrix</A><A>The Beatles</A><A>Led Zeppelin</A><CA>The Beatles</CA>
+		</Question>  
+		<Question>
+			<Q>Which of the following was among the founders of Microsoft?</Q>
+			<A>Larry Ellison</A><A>Steve Jobs</A><A>Bill Gates</A><A>Larry Page</A><CA>Bill Gates</CA>
+		</Question>
+		<Question>
+			<Q>Which company manufactures the Windows Operating System?</Q>
+			<A>Dell</A><A>IBM</A><A>Apple</A><A>Microsoft</A><CA>Microsoft</CA>
+		</Question>
+		<Question>
+			<Q>Who is the inventor of photography?</Q>
+			<A>Gustave</A><A>Menorah</A><A>Daguerre</A><A>Bram</A><CA>Daguerre</CA>
+		</Question>
+		<Question>
+			<Q>In which English town did Adolf Hitler study art?</Q>
+			<A>London</A><A>Manchester</A><A>Liverpool</A><A>Brighton</A><CA>Liverpool</CA>
+		</Question>
+</Hard>
+</Questions>

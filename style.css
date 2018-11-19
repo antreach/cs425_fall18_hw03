@@ -1,0 +1,87 @@
+body{
+	font-family: Helvetica, Sans-Serif;
+}
+
+.mainDiv{ 
+    text-align:center;
+	margin-top:3%;
+    margin-bottom:3%;
+}
+
+.helpDiv{
+    display:inline-block;
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
+
+.normalDiv{
+    text-align: center;
+    margin-top:3%;
+    margin-bottom:3%;
+}
+
+/*text*/
+.wellcomeText{
+	color:#FF420E;
+	font-size:300%;
+    text-align:center;
+}
+
+.normalText{
+	color:#F98866;
+	font-size:150%;
+}
+
+.textBox-Style{
+    border-color:#FF420E solid 1px;
+    border-radius: 5px;
+    padding:1%;
+    margin-top:5%;
+}
+
+/*Button*/
+.start_button{
+	background-color:#FF420E;
+	color:white;
+	padding:1%;
+	border-radius:5px;
+	border:none;
+	text-align:center;
+	width:15%;
+	height:30%;
+    font-size:120%;
+    margin-right:2%;
+}
+
+/*Nav bar*/
+.topnav {
+    z-index: 1;
+    background-color:#80BD9E;
+    overflow: hidden;
+    position:fixed!important;
+    top:0;
+    width:100%;
+    border-bottom-style: solid;
+    border-bottom-width:1px;
+    border-color:#6FA288;
+}
+
+.topnav a {
+    float: left;
+    display:block;
+    color: #FF420E;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topnav a:hover {
+    background-color:#5E8571;
+    color: white;
+}
+
+.topnav a.active {
+    background-color: #6FA288;
+    color:white;
+}
